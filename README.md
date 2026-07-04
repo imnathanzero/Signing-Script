@@ -7,7 +7,7 @@ A script to set up a signing environment for Android builds by generating the ne
 1. Run the script in your root build directory:
 
     ```bash
-    bash <(curl -s https://raw.githubusercontent.com/Envoy-Z-Lab/Signing-Script/main/keygen.sh)
+    bash <(curl -s https://raw.githubusercontent.com/imnathanzero/Signing-Script/main/keygen.sh)
     ```
 
 2. Provide the certificate details when prompted and confirm.
